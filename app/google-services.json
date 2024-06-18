@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "446544654671",
+    "project_id": "livrable-242d7",
+    "storage_bucket": "livrable-242d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446544654671:android:2b3b8c26d89f83825a953a",
+        "android_client_info": {
+          "package_name": "com.example.livrable"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHOQ8uFRtPjF541Ywv3SNFGuwlRj_mdWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
